@@ -4,14 +4,11 @@ This is a list of vulnerabilities identified by the article [Demystifying Exploi
 | ------------- | ------------- | ------------- | ------------- |
 | PRIVILEGE ESCALATION  | [CWE-266: Incorrect Privilege Assignment](https://cwe.mitre.org/data/definitions/266.html) | [Joyn Contest](https://code4rena.com/reports/2022-03-joyn#h-04-corecollection-can-be-reinitialized) | |
 | ATOMICITY VIOLATION | [CWE-362: Concurrent Execution using Shared Resource with Improper Synchronization](https://cwe.mitre.org/data/definitions/362.html)  | [Vader Protocol Contest](https://code4rena.com/reports/2021-11-vader#h-11-dex-v1-basepoolmint-function-can-be-frontrun)  | |
-| PRICE ORACLE MANIPULATION |  []()   | []()  | |
-| ID UNIQUENESS VIOLATION |  []()   | []()  | |
-| ERRONEOUS ACCOUNTING |  []()   | []()  | |
-| INCONSISTENT STATE UPDATES |  []()   | []()  | |
+| PRICE ORACLE MANIPULATION |  [CWE-1068: Inconsistency Between Implementation and Documented Design](https://cwe.mitre.org/data/definitions/1068.html)   | [Marginswap Contest](https://code4rena.com/reports/2021-04-marginswap#h-03-price-feed-can-be-manipulated)  | |
+| ID UNIQUENESS VIOLATION |  [CWE-694: Use of Multiple Resources with Duplicate Identifier](https://cwe.mitre.org/data/definitions/694.html)   | [Float Capital Contest](https://code4rena.com/reports/2021-08-floatcapital#h-02-2-variables-not-indexed-by-marketindex)  | |
+| ERRONEOUS ACCOUNTING |  [The product performs a calculation that generates incorrect or unintended results that are later used in security-critical decisions or resource management. ](https://cwe.mitre.org/data/definitions/682.html)   | [Concur Finance Contest](https://code4rena.com/reports/2022-02-concur#h-02-masterchef-improper-handling-of-deposit-fee)  | |
+| INCONSISTENT STATE UPDATES |  [CWE-240: Improper Handling of Inconsistent Structural Elements](https://cwe.mitre.org/data/definitions/240.html)   | [Mochi Contest](https://code4rena.com/reports/2021-10-mochi#h-11-treasuryshare-is-overwritten-in-feepoolv0_sharemochi)  | |
 
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
