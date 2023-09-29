@@ -8,3 +8,10 @@ This is a list of vulnerabilities identified by the article [Demystifying Exploi
 | ID UNIQUENESS VIOLATION |  []()   | []()  |
 | ERRONEOUS ACCOUNTING |  []()   | []()  |
 | INCONSISTENT STATE UPDATES |  []()   | []()  |
+
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
