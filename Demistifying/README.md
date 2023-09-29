@@ -15,7 +15,7 @@ Let a business flow B be a sequence of transactions t1, ..., tn, each denoting a
 ### Atomicity Violation
 There are multiple business flows B1, ... and Bm that access some common state variables (e.g., tickets in our example). An atomicity violation bug occurs when concurrent business flows yield an unserializable outcome.
 
-###Price Oracle Manipulation
+### Price Oracle Manipulation
 Given a price oracle Corc, an application contract C, and lending contract(s) Cl supporting flash loans, C needs to query Corc for prices which are based on instant balances (or balances within a short time) in Corc, and Cl needs to have sufficient funds to manipulate the balance ratio in Corc.
 
 ### ID Uniqueness Violation
