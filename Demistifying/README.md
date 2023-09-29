@@ -4,7 +4,10 @@ This is a list of vulnerabilities identified by the article [Demystifying Exploi
 | ------------- | ------------- | ------------- | ------------- |
 | PRIVILEGE ESCALATION  | [CWE-266: Incorrect Privilege Assignment](https://cwe.mitre.org/data/definitions/266.html) | [Joyn Contest](https://code4rena.com/reports/2022-03-joyn#h-04-corecollection-can-be-reinitialized) | |
 | ATOMICITY VIOLATION | [CWE-362: Concurrent Execution using Shared Resource with Improper Synchronization](https://cwe.mitre.org/data/definitions/362.html)  | [Vader Protocol Contest](https://code4rena.com/reports/2021-11-vader#h-11-dex-v1-basepoolmint-function-can-be-frontrun)  | |
-
+| PRICE ORACLE MANIPULATION |  []()   | []()  | |
+| ID UNIQUENESS VIOLATION |  []()   | []()  | |
+| ERRONEOUS ACCOUNTING |  []()   | []()  | |
+| INCONSISTENT STATE UPDATES |  []()   | []()  | |
 
 
 
